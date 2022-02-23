@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is to all the prisoners and sufferers for the name of the Lord Jesus Christ and his worship. And ye know that the word of God is not bound.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40282</idno>
+            <idno type="STC">Wing F1936A</idno>
+            <idno type="STC">ESTC R220253</idno>
+            <idno type="EEBO-CITATION">99831675</idno>
+            <idno type="PROQUEST">99831675</idno>
+            <idno type="VID">36140</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40282)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36140)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is to all the prisoners and sufferers for the name of the Lord Jesus Christ and his worship. And ye know that the word of God is not bound.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.B.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By George Fox.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>God --  Mercy --  Early works to 1800.</term>
+               <term>God --  Love --  Early works to 1800.</term>
+               <term>Inner Light --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="exhortation">
+            <pb n="1" facs="tcp:36140:1" rendition="simple:additions"/>
+            <head>This is to all the PRISONERS And SUFFERERS, For the name of the Lord <hi>Jeſus Chriſt</hi> and his Worſhip. And ye know that the word of God is not bound.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>IN the ſeed of Life that's over all, whom the Lord work ſupport and hath ſupported by his Eternal Arm and Power, to ſtand for his Glory, and be valient for his Truth and his name upon the Earth, who is God all ſuffi<g ref="char:EOLhyphen"/>cient and Almighty, who is God over all to ſupport you all, and to ſupply you with all things needfull. Now dear Friends, it is not only given you to believe in the name of Chriſt, but alſo to ſuffer for his name ſake; ſo you ſee and know 'tis a gift given you to believe, and a gift to ſuffer for Chriſts ſake and his Righteouſneſs, but however, as Chriſt ſaith, <hi>be ye wiſe as Serpents, and harmleſs as Doves,</hi> for Chriſts believers are as Sheep or Lambs among Wolves, and he hath declared how they ſhall be brought before Counſells, and before Rulers for his name ſake: but Chriſt bids his Sheep, <hi>take no thought what they ſhall ſpeak, for it ſhall be given you in that ſame hour what ye ought to ſpeak, for it's not you that ſpeak, but the Spirit of your
+<pb n="2" facs="tcp:36140:2"/>Father that ſpeaketh in you,</hi> and this Spirit of the Father is ſuffi<g ref="char:EOLhyphen"/>cient to truſt to, for it ſhall anſwer all if they have Ears to hear, and comfort his People, his Lambs and Sheep. And Chriſt fur<g ref="char:EOLhyphen"/>ther ſaid, ſpeaking to his Sheep, <hi>ye ſhall be hated of all men for my name ſake, but he that endureth to the end, the ſame ſhall be ſaved, and he that heareth Chriſts Sheep heareth me,</hi> (ſaith Chriſt,) <hi>and he that diſpiſeth you diſpiſeth me, namely Chriſt, and he that diſpiſeth me diſpiſeth him that ſent me,</hi> (to wit) <hi>the Father,</hi> Mat. 10. Luke 10. <hi>And the Diſciple is not above his Maſter, nor the Servant above his Lord,</hi> for Chriſt the Lord and Maſter of the Sheep was diſpiſed, ſo it is enough for the Diſciple that he be as his Maſter, and the Servant as his Lord, <hi>for if they call the Maſter of the Houſe, namely Chriſt,</hi> Belzebub, <hi>how much more ſhall they call them of his Houſehold, but the very Hairs of your head are all numbered, fear ye not therefore ye are of more value then many Sparrows, and not of them ſhall fall to the ground without the Heavenly Father,</hi> ſee here how Chriſt en<g ref="char:EOLhyphen"/>courages his Lambs and Sheep, therefore ſtand in his will; and if the Lord ſuffer you who are his Lambs and Sheep and Doves and Chickens, that Chriſt hath gathered under his Wings, none are able to pluck you out of his hands, his power who hath all power in Heaven and Earth given to him, and now if it be the will of the Lord to try you his Lambs and Sheep, by ſpoyling of the outward goods, as he did his Servant <hi>Job</hi> and others of his Servants and Children, in the dayes of the Apoſtles, who took joyfully the ſpoyling of their goods, and <hi>Moſes</hi> by Faith choſe rather to ſuffer affliction with the People of God, then to injoy the pleaſures of ſin, which are but for a ſeaſon, eſteeming the reproaches of Chriſt greater riches than the treaſures of <hi>Egypt,</hi> for he had an Eye to the recompence of reward, as in <hi>Heb. Chap.</hi> 11.</p>
+            <p>And therefore conſider how <hi>Noah, Lot, Abraham, Iſaac</hi> and <hi>Jacob</hi> by Faith ſerved the Lord and went through ſufferings and Tryals, and <hi>Jeremiah</hi> and the reſt of the Prophets through Faith,
+<pb n="3" facs="tcp:36140:2"/>went through great ſufferings and impriſonments, and <hi>Daniel</hi> and the 3 Children paſſed through great ſufferings and Tryals by Faith, ſo Faith was their Victory which was the gift of God, which Chriſt is the Author and finiſher of, and you read in the dayes of the Apoſtles, what ſufferings and Impriſonments they were carryed through by Faith, and ſince the Apoſtles dayes how all the Martyrs were carried through great ſufferings and Impriſonments by their Faith, which was their Victory, in which Faith they pleaſed God, and had Victory over the Devil, and in which Faith they were all in Unity. Now dear Friends and Brethren, if it doth pleaſe the Lord to try you, who are the be<g ref="char:EOLhyphen"/>lievers in the Light, and Children of the Light and the day of Chriſt: I ſay again if it pleaſe the Lord, and be his will to try you in ſtinking Priſons and Dungeons, Bride-wells, Houſes of Correction, and ſuffer you to be put in ſuch places, who are his Sheep and Lambs, Doves and Chickens, Lyllies and Roſes, Plants and Branches, I ſay the Lord can Sanctify all ſuch places for his People, his Children, his Sons and Daughters, and make all pleaſant to them, for his Sheep and People cannot go any where from the Lord, for the Lord and his preſence is with them, and the Angel of his preſence Suffers with them, and therefore ſuch Goals and Dungeons, Bride-wells, Houſes of Correction, which are for evil Doers, and if the Lord doe try or ſuffer his People to be put in ſuch places, his Lambs and Sheep, Lyllies and Roſes, Doves and Chickens, yet they are all in the Hand and under the Wing of Chriſt, and he can Sanctify all ſuch places to them; and you in that ſtate are to pray for the Ene<g ref="char:EOLhyphen"/>mies that put you there, and if they curſe and hate you, you are to bleſs them, and doe good unto them, and you are to pray for them, that diſpitefully uſe you and perſecute you, and love your Enemies, that you may be Children of your Father which is in Heaven, for he maketh the Sun to riſe on the evil and on the good, and cauſeth his Rain to fall on the juſt and on the unjuſt.
+<pb n="4" facs="tcp:36140:3"/>And the Apoſtle ſaith to the Believers, <hi>try all things, hold faſt that which is good, ſo you holding faſt that which is good, with that you can try all things, whether they be good or bad; and be not overcome with evil, but overcome evil with good:</hi> this is the command, ſo it is the good that muſt overcome the evil, and what hath the Children of God to overcome the evil withall, but the good; therefore then all muſt hold faſt that which is good if that with the good they over come the evil, and can try all things; but when any do go from the good in themſelves, then they are not like with it to overcome the evil, nor with it try all things, without holding faſt that which is good, for without it you cannot try all things nor overcome the evil ex<g ref="char:EOLhyphen"/>cept you hold faſt that which is good, which was before the bad was or evil either, for by the good evil is overcome, and with it you can try all things whether they be good or bad, and a good man <hi>David</hi> ſaith, <hi>he hath diſperſed, he hath given to the poor, his Righteouſneſs endureth forever, his Horn ſhall be exalted with Honour. They that chuſe the things that pleaſe the Lord, and keep his Covenant, even them will I give a name in my Houſe and within my Walls, a place and a name better than of Sons and Daughters,</hi> ſaith the Lord, <hi>and I will give them an everlaſting name which ſhall not be cut off,</hi> Iſai. 56. So you may ſee how the Lord doth encourage his People to walk in the Truth, in Faithfullneſs to him, for the Lord hath loved his People with an everlaſting love, therefore with loving-kind<g ref="char:EOLhyphen"/>neſs hath he, and doth he draw them unto himſelf, to ſerve and worſhip him, <hi>Jer.</hi> 31. And Chriſt ſaith, <hi>he that believeth on him hath everlaſting life, Mark,</hi> hath it, as in <hi>John</hi> 3. and again Chriſt ſaith, <hi>he that drinketh of the Water that I give, ſhall never thirſt; but the Water that I ſhall give, ſhall be in him a well ſpringing up to Eternal life,</hi> ſo every one mind this well in you who have drunk of the Water which Chriſt hath given you.</p>
+            <p>And the Apoſtle ſaith, <hi>God will puniſh them that diſobey his Goſpel with an everlaſting deſtruction from the preſence of the Lord, and from the Glory of his power,</hi> 2 <hi>Theſſ.</hi> 1.9. Here you may ſee everlaſting
+<pb n="5" facs="tcp:36140:3"/>deſtruction to the wicked that diſobey the Goſpel of Chriſt, and everlaſting life, to them that believe &amp; obey the Goſpel of Chriſt. Now they that diſobey the Goſpel of Chriſt, diſobey their own comfort and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> life and Salvation, which Goſpel is the power of God, which is preacht to every Creature under Heaven to be<g ref="char:EOLhyphen"/>lieve and obey, therefore happy are you who have received it, and obeyed it, which brings Life and immortality to Light in you; that you ſee over the Enemy which darkened you, and are now become Heirs of this comfortable and joyful Goſpel of life and everlaſting Salvation, in which everlaſting Goſpel you have an everlaſting glorious fellowſhip, and in this everlaſting Goſpel, you can praiſe the everlaſting God, that Reigns over all from ever<g ref="char:EOLhyphen"/>laſting to everlaſting; and all that are of the ſeed and Faith of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> can ſay as <hi>David</hi> ſaid, <hi>bleſſed be God from everlaſting to ever<g ref="char:EOLhyphen"/>laſting, and let all the People ſay,</hi> Amen. <hi>Praiſe ye the Lord,</hi> Pſalm 108.48. And further can ſay, <hi>That the Mercy of the Lord is from Everlaſting to Everlaſting, upon all them that fear him and his Righteouſneſs unto the Children of Men,</hi> Pſal. 103, 17. For the Lord God he changeth not, he is the ſame that he was who Inhabits E<g ref="char:EOLhyphen"/>ternity and dwels in the humble heart, and therefore you Humble fear, and Serve and Worſhip him. And keep under the wing of Chriſt, and in him your Sanctuary and Saviour, who deſtroys the Deſtroyer, and is over all the firſt and laſt, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>Dolſton, <date>the 3 of the firſt Mo. 1684.</date>
+               </dateline> 
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="religious_tract">
+            <div type="part">
+               <head>Concerning Chriſt's meetings and gatherings to Salvation, and the Devils meetings and his gatherings to Deſtruction.</head>
+               <p>
+                  <hi>JOhn</hi> ſaid, that he ſaw <hi>three unclean Spirits like Frogs that came out of the Mouth of the Dragon, Devil and Satan, and out of the mouth of the Beaſt, and out of the mouth of the falſe Prophet,</hi> mark they do go out of their mouths, for they are the Spirits of Devils
+<pb n="6" facs="tcp:36140:4"/>working Miracles that goeth out of there mouths, the foul un<g ref="char:EOLhyphen"/>clean Spirits which goeth forth unto the Kings of the Earth, and of the whole World, mark, the whole World to gather to<g ref="char:EOLhyphen"/>gether them, mark, <hi>to gather them, ſo here they are to be gathered to the Battel of the great day of God Almighty,</hi> Rev. 16: 13, 14. And Satan the old Serpent ſhall go out to deceive the Nations, which are in the four Quarters of the Earth, <hi>Gog</hi> and <hi>Magog</hi> to gather them together to Battel, the number of whom is as the ſand of the Sea, ſo here is a gathering togather by the Divel, and they went up on the breadth of the Earth, and compaſſed the Camp of the Saints about, and the beloved City, <hi>and Fire came down from God out of Heaven and devoured them, ſo theſe that were gathered to<g ref="char:EOLhyphen"/>gather by the Devil, the deſtroyer was deſtroyed by God the Saviour of his People,</hi> Rev. 20:8.</p>
+               <p>And the Lord ſcatered <hi>Nimrod</hi> that mighty Hunters gathering, <hi>who gathered up People together to build Babel and confounded them, Gen.</hi> 10: 11. And <hi>Iſaiah</hi> ſaid, <hi>All thy Children ſhall be taught of the Lord, and great ſhall be the Peace of thy Children, and in Righteouſneſs ſhall they be eſtabliſhed: Behold they ſhall ſurely gather together, but not by me ſaith the Lord, and whoſoever ſhall gather togather againſt thee, ſhall fall for thy ſake; no Weapon that is formed againſt thee ſhall proſper, and every Tongue that ſhall riſe againſt thee in judgment thou ſhalt con<g ref="char:EOLhyphen"/>demn, this is the heritage of the Servants of the Lord and their Righ<g ref="char:EOLhyphen"/>teouſneſs is of me ſaith the Lord,</hi> Iſai. 54. And Chriſt Jeſus ſaith, <hi>where two or three are gathered together in my Name, there am I in the midſt of them;</hi> and the Apoſtle ſaid to the Jews, ſpeaking of Chriſt, <hi>that there is no Salvation in any other: for there is no other name under Heaven given among men whereby we muſt be ſaved</hi> Acts 4: 12. <hi>but by Chriſt Jeſus,</hi> ſo here is the Saints true gathering in the name of Chriſt Jeſus the ſecond <hi>Adam, and none is able to pluck them out of his hand,</hi> John 10.</p>
+               <p>
+                  <hi>Chriſt the ſeed of the Woman bruiſes the Serpents head, and Christ through death deſtroyes death, and the Devil the power of death, and
+<pb n="7" facs="tcp:36140:4"/>ſo doth reconcile all things, both in Heaven and in the Earth in one.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Concerning the Devil not abiding in the truth, became a Devil, a De<g ref="char:EOLhyphen"/>ſtroyer, a Serpent, and ſuch as followed him out of the truth.</head>
+               <p>THe Devil abode not in the truth and ſo he became a Devil, a Deſtroyer, and a Serpent, an Enemy, and a Satan, and Ad<g ref="char:EOLhyphen"/>verſary to the truth, and to Righteouſneſs, and Holyneſs, and to Man, and Woman, that God made in his image, in Righte<g ref="char:EOLhyphen"/>ouſneſs and Holyneſs, ſo he became an Enemy, and Adverſary, and a Deſtroyer, who is out of the truth, and abode not in it in whom there is no truth, and ſo is called the old Serpent, and Satan, and Devil, tempter and Falſe Accuſer; and <hi>Chriſt</hi> through death de<g ref="char:EOLhyphen"/>ſtroys death the Devil the power of death.</p>
+               <p>And when the <hi>Jews</hi> went from the truth they became Ene<g ref="char:EOLhyphen"/>mies, and Adverſaryes to it, and Deſtroyers of the Righteous, and the Iuſt; yea they were Adverſaryes and Accuſers and Ene<g ref="char:EOLhyphen"/>myes to the Prophets and Chriſt Ieſus, and Apoſtles, and Chriſt called the <hi>Jews,</hi> Vipers and Serpents, and ſaid to them that made a Profeſſion of the Scriptures of the Old Teſtament, but were gone from the truth of them, that they were of their Father the Devil, and his works and luſts they would doe.</p>
+               <p>And here the <hi>Iews</hi> that went out of the truth, did not they be<g ref="char:EOLhyphen"/>come Serpents, Enemyes, Satans, Adverſaryes, and <hi>Judass,</hi> Betrayers, and of the Devil, Deſtroyers of the Iuſt?</p>
+               <p>And when they which are called Chriſtians became haters of the Light, and Walkers diſpitefully againſt the Spirit of Grace, Diſpiſers of the word in their heart, and erred from the truth and the true faith, and profeſſed the form of Godlyneſs, but denyed the power thereof, and ſo denyed the Spirit of true Chriſtianity, theſe became Serpents, Enemies, Satans, Adverſaries to true Chriſtianity, and of the Devil, that ſeek to Deſtroy it, and <hi>Judas</hi>'s, Betrayers of it, and of the Righteous and the Juſt,
+<pb n="8" facs="tcp:36140:5"/>where ever it appeared to the unjuſt, and this hath been the work of that Spirit, that did not abide in the truth in all ages to be Enemyes, Adverſaryes and <hi>Judas</hi>'s, Betrayers, who ſeek to Deſtroy the truth, but Chriſt the truth doth deſtroy that de<g ref="char:EOLhyphen"/>ſtroying Spirit, who is the Saviour.</p>
+               <p>And Chriſt ſaid to the Jews, and to the Scribes and Phariſees which were the greateſt outward Profeſſors and applyers of the Prophets and promiſes of the old Teſtament to themſelves upon the Earth, and yet the greateſt perſecutors of the Holy Men and Women, and the Lords Prophets upon the Earth.</p>
+               <p>I ſay that Chriſt ſaid to them, <hi>O Jeruſalem, Jeruſalem, thou that killeſt the Prophets and Stoneſt them which are ſent unto thee, how often would I have gathered thy Children together, even as a Hen gathereth her Chickens under her Wings and ye would not! behold your Houſes are left unto you deſo<g ref="char:EOLhyphen"/>late,</hi> &amp;c. <hi>Mat.</hi> 23.37, 38.</p>
+               <p>
+                  <hi>Jeruſalem</hi> was the chiefeſt place of worſhip, and the chiefeſt City among the Jews, and the greateſt place of perſecution, and yet the Lord Jeſus Chriſt wept over this City, and would have gathered theſe perſecuting Profeſſors, without poſſeſſing of the life of what they did profeſs, but they would not come to him that they might have life.</p>
+               <p>And theſe perſecuting Jews, Scribes and Phariſees, Chriſt ſaid unto them, <hi>ye Compaſs Sea and Land to make one proſelyte, and when he is made ye make him two fold more the Child of Hell,</hi> Mat. 23.</p>
+               <p>Here you may ſee theſe Scribes, Phariſees and Jews, the great Profeſſors and Temple Worſhippers without life, what they gathered People into, and what Diſciples they made in their Compaſſ<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Sea and Land, they made them like themſelves, and the Devil, and Satan, and the Serpent, who abode not in the Truth, did ſeek to draw all out of the Truth, and to make them Serpents and Satans, adverſaries, and of the Devil, deſtroyers, and ſo he rules in the Hearts of the diſobedient, and blindeth the Eyes of the Heathen or infidels, and the Apoſtated Chriſtians from the Spirit of Chriſt, and the life of Chriſtianity they do ſeek to draw all from the Truth and Spirit of Chriſt, and the life of Chriſtianity into death, Enmity, and into perſecution and deſtroying, like the Devil, Jews and <hi>Judas,</hi> all in one Spirit, according to their meaſures that they have from the Devil, but all that live and walk in the Truth and the Spirit of Jeſus, labour to bring and draw and gather all into the Truth, and to Chriſt their Saviour, who deſtroyeth the deſtroyer.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. B.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
